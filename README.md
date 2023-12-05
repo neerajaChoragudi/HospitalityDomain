@@ -4,7 +4,7 @@ I have done this powerBI dashboard in codebascis resume challenge
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://shorturl.at/epxLW)
+Link to [Interactive Dashboard](<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWZhMWVlYWItZDc4Yy00YzNmLWFmNGUtZjdkYjExMDA3ZTk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 ## Problem statement
